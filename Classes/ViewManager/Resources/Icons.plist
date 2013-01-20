@@ -4,6 +4,22 @@
 <array>
 	<dict>
 		<key>Name</key>
+		<string>Icon-72@2x.png</string>
+		<key>Size</key>
+		<integer>144</integer>
+		<key>Tag</key>
+		<integer>144</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Icon-Small-50@2x.png</string>
+		<key>Size</key>
+		<integer>100</integer>
+		<key>Tag</key>
+		<integer>100</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
 		<string>Icon.png</string>
 		<key>Size</key>
 		<integer>57</integer>
